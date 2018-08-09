@@ -1,3 +1,7 @@
+----
+AndrewVCoding
+----
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AndrewVCoding/AndrewVCoding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +29,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+```python
+import package
+
+if 1 < 2:
+  print('hello world')
+ ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
