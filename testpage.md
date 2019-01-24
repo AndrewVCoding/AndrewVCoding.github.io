@@ -1,1 +1,6 @@
-## This is the test page!
+<pre><code class="language-css">
+.post {
+	background: white;
+	padding: $padding;
+}
+</code></pre>
