@@ -1,6 +1,5 @@
-<pre><code class="language-css">
-.post {
-	background: white;
-	padding: $padding;
-}
+<pre><code class="language-java">
+import
+
+public class Test{}
 </code></pre>
